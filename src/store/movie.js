@@ -7,7 +7,7 @@ const store = new Store({
     movies: [],
     movie: {},
     loading: false,
-    message: 'Search for the movie title!!'
+    message: '영어밖에 입력이 안되서 영화이름 영어로 가져와서 입력해주세요.'
 })
 
 export default store
